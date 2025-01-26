@@ -1,8 +1,6 @@
 # Simple particle simulation for fun
 
-<video width="800" height="600" controls>
-  <source src="media\little_demo.mp4" type="video/mp4">
-</video>
+<video src='media\little_demo.mp4' width=800 height=600 />
 
 I just wanted to have some fun learning raylib and trying to the a simple planet simulation.
 This could be a nice project example for people trying to learn raylib like myself :).
