@@ -1,6 +1,6 @@
 # Simple particle simulation for fun
 
-<video src='media\little_demo.mp4' width=800 height=600 />
+[![](https://raw.githubusercontent.com/theodoroADS/little-particles/main/media/demo_thumb.jpg)](https://raw.githubusercontent.com/theodoroADS/little-particles/main/media/little_demo.mp4)
 
 I just wanted to have some fun learning raylib and trying to the a simple planet simulation.
 This could be a nice project example for people trying to learn raylib like myself :).
